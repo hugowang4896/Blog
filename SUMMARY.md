@@ -1,4 +1,4 @@
 # Summary
 
 * [Introduction](README.md)
-* [为了轻装上阵](travel-light.md)
+* [记录](travel-light.md)
